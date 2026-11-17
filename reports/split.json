@@ -1,0 +1,6 @@
+{
+  "train": 10619,
+  "test": 2000,
+  "strategy": "last two events per user; relevant rating >= 4; full catalog; no budget filters",
+  "seed": 42
+}
